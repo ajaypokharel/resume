@@ -1,2 +1,3 @@
-# resume
-Instead of using google drive, why cannot I use GitHub to store my resume and update it time and again!?!
+# AJAY_POKHAREL_RESUME
+
+Everyone uses Google Drive, Box, and OneDrive to save and update their resumes and CV. However, I have decided to use GitHub to save and periodically update my resume.
